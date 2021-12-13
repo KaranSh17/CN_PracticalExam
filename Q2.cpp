@@ -29,7 +29,7 @@ int main()
     key=new int[ksize];
 
     cout<<"\n enter key:";
-    for(i=0;i<ksize;i++)
+    for(i=0;i<ksize;i++) 
      cin>>key[i];
 
     cout<<"\n enter the size of message:";
