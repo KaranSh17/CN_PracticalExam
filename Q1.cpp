@@ -26,6 +26,6 @@ int main()
     cout<<"\n MESSAGE RECEIVED BY RECEIVER IS : "<<endl;
     puts(receiver);
   cout<<"\n WINDOW SIZE OF RECEIVER IS SHRINKED \n"<<endl;
-  getch();
+  getch(); 
   return 0;
 }
